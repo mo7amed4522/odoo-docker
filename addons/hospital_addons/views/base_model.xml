@@ -1,0 +1,6 @@
+<odoo>
+        <menuitem
+                id="hospital_base_model"
+                name="Hospital"
+                web_icon="hospital_addons/static/description/image.png" />
+</odoo>
